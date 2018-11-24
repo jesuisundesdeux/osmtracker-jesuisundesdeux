@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="page" icon="/bicycle_icons/quality.png" label="Inventaire parc cyclable" targetlayout="Inventaire"/>
+		</row>
+		<row>
+			<button type="page" icon="/bicycle_icons/PC_2cote.png" label="Piste Cyclable" targetlayout="PC"/>
+		</row>
+		<row>
+			<button type="page" icon="/bicycle_icons/BC_1sens.png" label="Bande Cyclable" targetlayout="BC"/>
+		</row>
+	</layout>
+
+
+	<layout name="Inventaire">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Ou est la piste ?" icon="/bicycle_icons/direction.png" />
+			<button type="tag" label="Piste barrée" icon="/bicycle_icons/barriere.png" />
+		</row>
+		<row>
+			<button type="tag" label="Poubelle" icon="/bicycle_icons/poubelle.png" />
+			<button type="tag" label="Demande entretient" icon="/bicycle_icons/travaux.png" />
+		</row>
+		 <row>
+			<button type="tag" label="GCUM" icon="/bicycle_icons/gcum.png" />
+			<button type="tag" label="Dangereux" icon="/bicycle_icons/danger.png" />
+		</row>
+	</layout>
+
+	<layout name="PC">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		 <row>
+			<button type="tag" label="PC 2 coté" icon="/bicycle_icons/PC_2cote.png" />
+		</row>
+		 <row>
+			<button type="tag" label="PC 1 coté" icon="/bicycle_icons/PC_doublesens.png" />
+		</row>
+		 <row>
+			<button type="tag" label="PC 1 sens" icon="/bicycle_icons/PC_1sens.png" />
+		</row>
+		 <row>
+			<button type="tag" label="PC Bof" icon="/bicycle_icons/nolove.png" />
+			<button type="tag" label="PC Aime" icon="/bicycle_icons/love.png" />
+		</row>
+	</layout>
+
+	<layout name="BC">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		 <row>
+			<button type="tag" label="BC 2 coté" icon="/bicycle_icons/BC_2cote.png" />
+		</row>
+		 <row>
+			<button type="tag" label="BC 1 sens" icon="/bicycle_icons/BC_1sens.png" />
+		</row>
+		 <row>
+			<button type="tag" label="BC Bof" icon="/bicycle_icons/nolove.png" />
+			<button type="tag" label="BC Aime" icon="/bicycle_icons/love.png" />
+		</row>
+	</layout>
+</layouts>
