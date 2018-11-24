@@ -3,7 +3,7 @@ OSMTracker #JeSuisUnDesDeux layouts
 
 ### Installation
 
-Installer depuis le [playstore Google](https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker)
+Depuis votre téléphone android, cherchez l'application **OSMTracker**
 
 ### Configuration
 
