@@ -3,7 +3,7 @@ OSMTracker #JeSuisUnDesDeux layouts
 
 ## A propos
 
-Afin de centraliser toutes les remarques GPS du mouvement **#JeSuisUnDesDeux**, il faut avant tout créer un compte sur [OpenSteetMap](https://www.openstreetmap.org/user/new). Il vous sera alors possible d'envoyer vos **GPX** avec le tag **jesuisundesdeux** sur le site [OpenSteetMap](https://www.openstreetmap.org/user/new)
+Afin de centraliser toutes les remarques GPS du mouvement **#JeSuisUnDesDeux**, il faut avant tout créer un compte sur [OpenSteetMap](https://www.openstreetmap.org/user/new). Il vous sera alors possible d'envoyer vos **GPX** avec le tag **JeSuisUnDesDeux** (attention case sensitive) sur le site [OpenSteetMap](https://www.openstreetmap.org/user/new)
 
 ### Installation
 
