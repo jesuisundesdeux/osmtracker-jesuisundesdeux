@@ -25,7 +25,7 @@
 		</row>
 		<row>
 			<button type="tag" label="Poubelle" icon="/bicycle_icons/poubelle.png" />
-			<button type="tag" label="Demande entretient" icon="/bicycle_icons/travaux.png" />
+			<button type="tag" label="Demande d'entretien" icon="/bicycle_icons/travaux.png" />
 		</row>
 		 <row>
 			<button type="tag" label="GCUM" icon="/bicycle_icons/gcum.png" />
